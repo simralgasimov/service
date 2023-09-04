@@ -62,6 +62,8 @@
 }
 
 .container ul li h3 {
+  margin-top: 43px;
+  /* width: 83px; */
   color: var(--text-dark, #391400);
   font-feature-settings: "clig" off, "liga" off;
 
